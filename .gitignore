@@ -28,7 +28,7 @@ uv_cache/
 # 🔒 Environment Files
 .env
 .env.*
-!.env.example  # du kannst ein Beispiel mit Platzhaltern versionieren
+!.env.example
 
 # 🧠 OpenAI / API Cache
 openai_cache/
