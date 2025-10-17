@@ -1,0 +1,7 @@
+[project]
+name = "leaguelivepersonaltrainer"
+version = "0.1.0"
+description = "League Live Personal Trainer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []

@@ -1,0 +1,43 @@
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+
+# 🧪 Virtual Environments (uv / venv / poetry etc.)
+.venv/
+venv/
+uv.lock
+uv_cache/
+.envrc
+
+# ⚙️ IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔒 Environment Files
+.env
+.env.*
+!.env.example  # du kannst ein Beispiel mit Platzhaltern versionieren
+
+# 🧠 OpenAI / API Cache
+openai_cache/
+*.jsonl
+.cache/
+tmp/
+*.tmp
+
+# 📦 OS / System Files
+.DS_Store
+Thumbs.db
+desktop.ini
