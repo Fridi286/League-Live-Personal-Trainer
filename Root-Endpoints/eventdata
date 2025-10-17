@@ -1,0 +1,27 @@
+{
+  "Events": [
+    {
+      "EventName": "GameStart",
+      "EventTime": 0.0
+    },
+    {
+      "EventName": "ChampionKill",
+      "EventTime": 512.3,
+      "KillerName": "",
+      "VictimName": "",
+      "Assisters": [""],
+      "Position": {"x": 0.0, "y": 0.0, "z": 0.0}
+    },
+    {
+      "EventName": "TurretKilled",
+      "EventTime": 750.1,
+      "KillerName": "",
+      "TurretKilled": "Turret_T2_C_03_A"
+    },
+    {
+      "EventName": "DragonKill",
+      "EventTime": 923.4,
+      "DragonType": "Mountain"
+    }
+  ]
+}

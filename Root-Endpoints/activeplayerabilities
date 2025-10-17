@@ -1,0 +1,21 @@
+{
+  "Q": {
+    "displayName": "",
+    "rawDescription": "",
+    "level": 0,
+    "cooldown": 0.0,
+    "id": ""
+  },
+  "W": {
+    "displayName": "",
+    "rawDescription": "",
+    "level": 0,
+    "cooldown": 0.0
+  },
+  "E": {},
+  "R": {},
+  "Passive": {
+    "displayName": "",
+    "rawDescription": ""
+  }
+}

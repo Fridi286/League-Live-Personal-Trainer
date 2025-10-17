@@ -1,0 +1,25 @@
+[
+  {
+    "summonerName": "",
+    "championName": "",
+    "team": "ORDER",
+    "level": 0,
+    "isDead": false,
+    "items": [
+      {"itemID": 0, "displayName": "", "count": 0}
+    ],
+    "scores": {
+      "kills": 0,
+      "deaths": 0,
+      "assists": 0,
+      "creepScore": 0,
+      "wardScore": 0.0
+    },
+    "summonerSpells": [
+      {"displayName": "", "rawDescription": ""}
+    ],
+    "runes": [
+      {"displayName": "", "rawDescription": ""}
+    ]
+  }
+]

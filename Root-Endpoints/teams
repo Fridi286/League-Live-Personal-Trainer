@@ -1,0 +1,18 @@
+[
+  {
+    "teamID": "ORDER",
+    "baronKills": 0,
+    "dragonKills": 0,
+    "inhibitorKills": 0,
+    "towerKills": 0,
+    "totalKills": 0
+  },
+  {
+    "teamID": "CHAOS",
+    "baronKills": 0,
+    "dragonKills": 0,
+    "inhibitorKills": 0,
+    "towerKills": 0,
+    "totalKills": 0
+  }
+]

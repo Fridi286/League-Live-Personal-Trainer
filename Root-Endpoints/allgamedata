@@ -1,0 +1,58 @@
+/allgamedata
+
+{
+  "activePlayer": {
+    "summonerName": "",
+    "championName": "",
+    "level": 0,
+    "gold": 0,
+    "currentHealth": 0,
+    "maxHealth": 0,
+    "mana": 0,
+    "abilities": {
+      "Q": {"abilityLevel": 0, "cooldown": 0.0, "displayName": "", "id": "", "rawDescription": ""},
+      "W": {"abilityLevel": 0, "cooldown": 0.0},
+      "E": {"abilityLevel": 0, "cooldown": 0.0},
+      "R": {"abilityLevel": 0, "cooldown": 0.0}
+    },
+    "runes": [
+      {"id": 0, "displayName": "", "rawDescription": ""}
+    ]
+  },
+  "allPlayers": [
+    {
+      "summonerName": "",
+      "championName": "",
+      "team": "ORDER",
+      "level": 0,
+      "isDead": false,
+      "items": [
+        {"itemID": 0, "displayName": "", "count": 0}
+      ],
+      "scores": {
+        "kills": 0,
+        "deaths": 0,
+        "assists": 0,
+        "creepScore": 0,
+        "wardScore": 0.0
+      },
+      "summonerSpells": [
+        {"displayName": "", "rawDescription": ""}
+      ],
+      "runes": [
+        {"displayName": "", "rawDescription": ""}
+      ]
+    }
+  ],
+  "events": {
+    "Events": [
+      {"EventName": "", "EventTime": 0.0}
+    ]
+  },
+  "gameData": {
+    "gameMode": "",
+    "gameTime": 0.0,
+    "mapName": "",
+    "queueId": 0
+  }
+}

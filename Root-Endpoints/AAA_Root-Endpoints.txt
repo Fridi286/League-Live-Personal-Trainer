@@ -1,0 +1,21 @@
+https://127.0.0.1:2999/liveclientdata
+
+/allgamedata                                #All Information below combined
+
+/activeplayer                               #Detailed Information about the active player: Champion, Gold, HP, Mana, Stats, Runes etc
+
+/activeplayerabilities                      #Information about the active player's abilities: Level, Cooldown etc
+
+/activeplayername                           #Name of the active player
+
+/activeplayerrunepage                       #Information about the active player's runes
+
+/eventdata                                  #Information about game events: Kills, Turrets, Dragons, game start etc
+
+/gamestats                                  #Base Information about the current game: Game time, Game mode, Map etc
+
+/playerlist                                 #List of all players in the game: Champion, Summoner Name, Team etc
+
+/playerscores?summonerName={summonerName}   #Detailed Information about a specific player: Kills, Deaths, Assists, CS etc
+
+/teams                                      #Information about both teams: Total Gold, Towers, Dragons, Barons etc

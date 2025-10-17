@@ -1,0 +1,3 @@
+import requests
+
+api_url = "https://jsonplaceholder.typicode.com/todos/1"
