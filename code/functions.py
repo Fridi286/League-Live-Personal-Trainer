@@ -24,5 +24,5 @@ def tryGameStart():
 
 def laningStartTip():
     prompt = "Provide 5 concise tips for the laning phase in League of Legends."
-    return tips
+    return None
 
